@@ -21,14 +21,14 @@ npx @modelcontextprotocol/inspector uvx mcp_calculator_kel
 ## MCP 服务器配置
 ```
 {
-    "mcpServers": {
-      "mcp_calculator_kel": {
-          "command": "uvx",
-          "args": [
-            "mcp-calculator"
-          ]
-        }
-    }
+  "mcpServers": {
+    "mcp_calculator_kel": {
+        "command": "uvx",
+        "args": [
+          "mcp-calculator"
+        ]
+      }
+  }
 }
 ```
 
